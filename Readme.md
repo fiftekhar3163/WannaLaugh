@@ -5,4 +5,4 @@ joks making for unlimited fun.
 
 ### Demo
 
-click [here] (https://fiftekhar3163.github.io/WannaLaugh/) to test my website.
+click [here](https://fiftekhar3163.github.io/WannaLaugh/) to test my website.
