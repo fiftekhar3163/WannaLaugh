@@ -7,8 +7,7 @@ let getButton = document.getElementById("btn-get-jokes")
 
 //When page is fully loaded.
 document.addEventListener("DOMContentLoaded",function(){
-
-
+    
     getButton.addEventListener("click",function(){ 
         spinner.classList.add("show-spinner");
         jokeQ.textContent="";
